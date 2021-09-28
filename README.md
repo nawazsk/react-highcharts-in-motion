@@ -2,10 +2,10 @@
 
 ## Instructions
 
-git clone <repo>\
-cd <repo>\
+git clone repo\
+cd repo\
 npm install\
-npm start\
+npm start
 
 
 ## Output:
